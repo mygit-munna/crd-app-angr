@@ -1,0 +1,33 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+
+.main_body{
+    /* display: flex;
+    justify-content: center; */
+    max-width: 1220px;
+    margin: 0 auto;
+}
+  .main_body mat-form-field{
+    width: 100%;
+    padding-top: 20px;
+  }
+
+
+  .action-btn{
+    display: flex;
+  }
+
+  .action-btn button{
+    height: 100%;
+  }
+
+
+
+  /* footer */
+
+
+
+  
+  

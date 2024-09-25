@@ -1,0 +1,113 @@
+{
+ 
+  "employees": [
+    {
+      "firstName": "sulusul",
+      "lastName": "sayeli",
+      "email": "sayeli@gmail.com",
+      "dob": "2024-01-16T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "comapny": "XtraMart",
+      "experience": 4,
+      "package": 7,
+      "id": "1"
+    },
+    {
+      "firstName": "suprava",
+      "lastName": "suan",
+      "email": "sup@gmail.com",
+      "dob": "2024-01-15T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduation",
+      "comapny": "sudlol web tech",
+      "experience": 3,
+      "package": 8,
+      "id": "2"
+    },
+    {
+      "firstName": "priyika",
+      "lastName": "sunima",
+      "email": "sunim@gmail.com",
+      "dob": "2024-01-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "comapny": "zeltra soft",
+      "experience": 2,
+      "package": 33,
+      "id": "3"
+    },
+    {
+      "firstName": "sakira",
+      "lastName": "kumil",
+      "email": "sakira@gmail.com",
+      "dob": "2024-01-23T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "comapny": "sakira solution",
+      "experience": 2,
+      "package": 22,
+      "id": "4"
+    },
+    {
+      "firstName": "kumar",
+      "lastName": "behera",
+      "email": "kumara@gmail.com",
+      "dob": "2024-02-12T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "comapny": "kuar solution",
+      "experience": 4,
+      "package": 12,
+      "id": "11"
+    },
+    {
+      "firstName": "sanker",
+      "lastName": "d",
+      "email": "dsanker@gmail.com",
+      "dob": "2024-02-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "comapny": "Tech mahindra",
+      "experience": 1.2,
+      "package": 12,
+      "id": "12"
+    },
+    {
+      "firstName": "sohum",
+      "lastName": "hum",
+      "email": "hum@gmail.com",
+      "dob": "2024-02-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "comapny": "Infosys",
+      "experience": 5,
+      "package": 14,
+      "id": "13"
+    },
+    {
+      "firstName": "sohum",
+      "lastName": "hum",
+      "email": "hum@gmail.com",
+      "dob": "2024-02-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "comapny": "Infosys",
+      "experience": 5,
+      "package": 14,
+      "id": "14"
+    },
+    {
+      "id": "be3a",
+      "firstName": "Mahendra",
+      "lastName": "humar",
+      "email": "smahendra89@gmail.com",
+      "dob": "2024-09-18T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "comapny": "zuadiance pvt",
+      "experience": 4,
+      "package": 12
+    }
+  ]
+}
